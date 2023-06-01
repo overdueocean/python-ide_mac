@@ -37,3 +37,9 @@
 [submodule "bundle/vim-numbertoggle"]
 	path = bundle/vim-numbertoggle
 	url = git://github.com/jeffkreeftmeijer/vim-numbertoggle.git
+[submodule "bundle/ale"]
+	path = bundle/ale
+    url = git://github.com/dense-analysis/ale.git
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+    url = git://github.com/d/jedi-vim.git
