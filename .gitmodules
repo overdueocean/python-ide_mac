@@ -1,45 +1,55 @@
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/vim-numbertoggle"]
+	path = bundle/vim-numbertoggle
+	url = git://github.com/jeffkreeftmeijer/vim-numbertoggle.git
 [submodule "bundle/ctrip.vim"]
 	path = bundle/ctrip.vim
 	url = https://github.com/kien/ctrlp.vim.git
-[submodule "bundle/nerdtree"]
-	path = bundle/nerdtree
-	url = https://github.com/scrooloose/nerdtree
-[submodule "bundle/python-mode"]
-	path = bundle/python-mode
-	url = https://github.com/klen/python-mode.git
-[submodule "bundle/vim-powerline"]
-	path = bundle/vim-powerline
-	url = https://github.com/Lokaltog/vim-powerline.git
-[submodule "bundle/vim-nerdtree-tabs"]
-	path = bundle/vim-nerdtree-tabs
-	url = https://github.com/jistr/vim-nerdtree-tabs.git
-[submodule "bundle/autopairs"]
-	path = bundle/autopairs
-	url = https://github.com/jiangmiao/auto-pairs.git
-[submodule "bundle/vim-puppet"]
-	path = bundle/vim-puppet
-	url = https://github.com/ricciocri/vim-puppet.git
-[submodule "bundle/tabular"]
-	path = bundle/tabular
-	url = https://github.com/godlygeek/tabular.git
 [submodule "bundle/ultisnips"]
 	path = bundle/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
+[submodule "bundle/vim-puppet"]
+	path = bundle/vim-puppet
+	url = https://github.com/ricciocri/vim-puppet.git
+[submodule "bundle/vim-nerdtree-tabs"]
+	path = bundle/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = https://github.com/plasticboy/vim-markdown.git
-[submodule "bundle/vim-numbertoggle"]
-	path = bundle/vim-numbertoggle
-	url = git://github.com/jeffkreeftmeijer/vim-numbertoggle.git
+[submodule "bundle/autopairs"]
+	path = bundle/autopairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "bundle/vim-flake8"]
+	path = bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
 [submodule "bundle/ale"]
 	path = bundle/ale
     url = git://github.com/dense-analysis/ale.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+    url = git://github.com/tpope/vim-surround.git
 [submodule "bundle/jedi-vim"]
 	path = bundle/jedi-vim
     url = git://github.com/d/jedi-vim.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+    url = git://github.com/preservim/nerdcommenter.git
+;[submodule "bundle/python-mode"]
+;    path = bundle/python-mode
+;    url = https://github.com/klen/python-mode.git
+
