@@ -218,6 +218,12 @@ set wildignore+=*/coverage/*
 
 " Settings for the dense-analysis/ale
 let g:ale_linters = {'python': ['flake8']} 
+"
+"disable virtual text appearing at ends of lines?
+"let g:ale_virtualtext_cursor = 'current'
+"
+"disable virtual text completely, apply the following.
+let g:ale_virtualtext_cursor = 'disabled'
 
 " Settings for the davidhalter/jedi-vim 
 "let g:jedi#environment_path = "/usr/local//bin/python"
